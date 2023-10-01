@@ -48,6 +48,8 @@ USEMODULE += sock_ip
 USEMODULE += sock_udp
 USEMODULE += sock_tcp
 
+USEMODULE += ztimer
+
 
 include $(RIOTBASE)/Makefile.include
 

@@ -7,8 +7,7 @@
 #include "paho_mqtt.h"
 #include "MQTTClient.h"
 
-#include "srf04.h"
-#include "srf04_params.h"
+
 #include "xtimer.h"
 #include "ztimer.h"
 #include "periph/gpio.h"
@@ -193,7 +192,7 @@ int main(void){
                 printf("Error publishing on topic: %s", TOPIC);
             }
         } else if(timer == 0){
-            status = "OFF"
+            status = "OFF";
             gpio_clear(led_pin);
              char json[200];
 

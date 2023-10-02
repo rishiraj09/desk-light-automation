@@ -34,9 +34,9 @@ def on_message(_client, _userdata, message):
 def on_connect(_client, _userdata, _flags, result):
 
     print('Connected ' + str(result))
-    #success = AWSIOTClient.publish(MQTT_PUB_TOPIC, "ciao", 0)
-    #if(success):
-    #   print("")
+    # success = AWSIOTClient.publish(MQTT_PUB_TOPIC, "ciao", 0)
+    # if(success):
+    #    print("Success")
 
     print('Subscribing to ' + MQTT_SUB_TOPIC)
     MQTT_CLIENT.subscribe(MQTT_SUB_TOPIC)
@@ -66,7 +66,7 @@ AWS_IOT_ROOT_CA = "./iot-core/root-CA.crt"
 AWS_IOT_PRIVATE_KEY = "./iot-core/ESP32.private.key"
 
 # Set the relative path to the AWS IoT Certificate file
-AWS_IOT_CERTIFICATE = "./ESP32.cert.pem"
+AWS_IOT_CERTIFICATE = "./iot-core/ESP32.cert.pem"
 
 # Configurations
 

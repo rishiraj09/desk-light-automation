@@ -20,7 +20,7 @@
 #define MQTT_VERSION_v311               4       /* MQTT v3.1.1 version is 4 */
 #define COMMAND_TIMEOUT_MS              5000
 
-#define BROKER_ADDRESS "172.16.47.128"
+#define BROKER_ADDRESS "192.168.1.40"
 #define DEFAULT_MQTT_PORT               1883
 #define DEFAULT_KEEPALIVE_SEC           15
 #define TOPIC "desklight"

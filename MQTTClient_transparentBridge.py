@@ -50,12 +50,12 @@ def disconnect_clients(signum, frame):
 
 signal.signal(signal.SIGINT, disconnect_clients)
 
-BROKER_ADDRESS = "172.16.47.128"
+BROKER_ADDRESS = "192.168.1.40"
 MQTT_BROKER_PORT = 1883
 MQTT_BROKER_CLIENT_ID = "broker"
 
 # AWS IoT settings
-AWS_IOT_ENDPOINT = "acwjwe43pkwh8-ats.iot.eu-west-3.amazonaws.com"
+AWS_IOT_ENDPOINT = "a1qnpz7e6y397v-ats.iot.eu-west-3.amazonaws.com"
 AWS_IOT_PORT = 8883
 AWS_IOT_CLIENT_ID = "ESP32"
 

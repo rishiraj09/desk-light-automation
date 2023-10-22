@@ -50,7 +50,7 @@ def disconnect_clients(signum, frame):
 
 signal.signal(signal.SIGINT, disconnect_clients)
 
-BROKER_ADDRESS = "192.168.1.40"
+BROKER_ADDRESS = "172.16.47.128"
 MQTT_BROKER_PORT = 1883
 MQTT_BROKER_CLIENT_ID = "broker"
 

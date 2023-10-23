@@ -62,7 +62,7 @@ The following image represents a prototype of the Desk Light Automation System.
 
 2. Create a new Riot application
     * Go into the examples folder under the Riot base directory.
-    * Create a new folder and call it "smartDustBin"
+    * Create a new folder and call it "deskLightAutomation"
     * Paste into the just created folder the files that are into the "code" folder of this repository.
 
 3. Install and configure Mosquitto

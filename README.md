@@ -4,7 +4,7 @@ Individual project for the course "IoT: algorithms and services" at Sapienza Uni
 [LinkedIn Profile]("https://www.linkedin.com/in/rishiraj-salam-78ba32151/)
 
 ### Brief Description
-Desk Light Automation is an innovative IoT solution that combines the power of ESP32 microcontroller, ROIT OS (Operating System for Internet of Things), and AWS ecosystem. The project aims to create a smart light for desk setup with real-time monitoring, data analysis, and a user-friendly wed interface.
+Desk Light Automation is an innovative IoT solution that combines the power of ESP32 microcontroller, ROIT OS (Operating System for Internet of Things), and AWS ecosystem. The project aims to create a smart light for desk setup with real-time monitoring, data analysis, and a user-friendly web interface.
 
 ### Concept
 
@@ -129,3 +129,4 @@ Now everything should work and you should start to see the real data updates in 
 #### Video Demonstration
 
 #### Hackster.io Article
+[Desk-Light-Automation]("https://www.hackster.io/salam1974210/desk-light-automation-c5a0d2)

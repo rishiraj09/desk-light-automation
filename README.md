@@ -125,10 +125,10 @@ The following image represents a prototype of the Desk Light Automation System.
 Now everything should work and you should start to see the real data updates in the web dashboard. You can see this process in more details by watching the youtube video demonstration of the project.
 
 #### Web Dashboard
-[Dashbaord]("https://dev.dxuge8s84vh0t.amplifyapp.com")
+[Dashbaord](https://dev.dxuge8s84vh0t.amplifyapp.com)
 
 #### Video Demonstration
-[Demo-Vieo]("https://youtu.be/3lmV1evnhtA")
+[Demo-Video](https://youtu.be/3lmV1evnhtA)
 
-#### Hackster.io Article
-[Desk-Light-Automation]("https://www.hackster.io/salam1974210/desk-light-automation-c5a0d2")
+#### Hackster Article
+[Desk-Light-Automation](https://www.hackster.io/salam1974210/desk-light-automation-c5a0d2)

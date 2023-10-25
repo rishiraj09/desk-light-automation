@@ -10,8 +10,8 @@ CFLAGS += -DEVELHELP
 # Change this to 0 to show compiler invocation lines by default
 QUIET ?= 1
 
-WIFI_SSID ?= "TIM-26374786"
-WIFI_PASS ?= "C7AkkbPh2NH9X7mCTAap2Y2Y"
+WIFI_SSID ?= "your_wifi_name"
+WIFI_PASS ?= "your_wifi_password"
 
 DEFAULT_MQTT_CLIENT_ID ?= "broker"
 DEFAULT_MQTT_USER ?= ""
